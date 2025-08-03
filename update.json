@@ -1,1 +1,5 @@
-
+{
+    "version": "1.0.0",
+    "description": "Versión inicial de Solara Browser",
+    "download_url": "https://github.com/tu_usuario/solara-browser/releases/latest/download/SolaraBrowser_Setup.exe"
+}
